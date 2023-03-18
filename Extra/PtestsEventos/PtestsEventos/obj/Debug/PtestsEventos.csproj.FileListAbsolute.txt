@@ -1,0 +1,11 @@
+C:\Users\Breno\source\repos\PtestsEventos\PtestsEventos\bin\Debug\PtestsEventos.exe.config
+C:\Users\Breno\source\repos\PtestsEventos\PtestsEventos\bin\Debug\PtestsEventos.exe
+C:\Users\Breno\source\repos\PtestsEventos\PtestsEventos\bin\Debug\PtestsEventos.pdb
+C:\Users\Breno\source\repos\PtestsEventos\PtestsEventos\obj\Debug\PtestsEventos.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\PtestsEventos\PtestsEventos\obj\Debug\PtestsEventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Breno\source\repos\PtestsEventos\PtestsEventos\obj\Debug\PtestsEventos.Form1.resources
+C:\Users\Breno\source\repos\PtestsEventos\PtestsEventos\obj\Debug\PtestsEventos.Properties.Resources.resources
+C:\Users\Breno\source\repos\PtestsEventos\PtestsEventos\obj\Debug\PtestsEventos.csproj.GenerateResource.cache
+C:\Users\Breno\source\repos\PtestsEventos\PtestsEventos\obj\Debug\PtestsEventos.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\PtestsEventos\PtestsEventos\obj\Debug\PtestsEventos.exe
+C:\Users\Breno\source\repos\PtestsEventos\PtestsEventos\obj\Debug\PtestsEventos.pdb
