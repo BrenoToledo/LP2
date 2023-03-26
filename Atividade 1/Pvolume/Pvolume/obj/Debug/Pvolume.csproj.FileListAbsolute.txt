@@ -1,0 +1,11 @@
+C:\Users\Breno\source\repos\Pvolume\Pvolume\obj\Debug\Pvolume.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\Pvolume\Pvolume\obj\Debug\Pvolume.csproj.SuggestedBindingRedirects.cache
+C:\Users\Breno\source\repos\Pvolume\Pvolume\obj\Debug\Pvolume.Form1.resources
+C:\Users\Breno\source\repos\Pvolume\Pvolume\obj\Debug\Pvolume.Properties.Resources.resources
+C:\Users\Breno\source\repos\Pvolume\Pvolume\obj\Debug\Pvolume.csproj.GenerateResource.cache
+C:\Users\Breno\source\repos\Pvolume\Pvolume\obj\Debug\Pvolume.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\Pvolume\Pvolume\bin\Debug\Pvolume.exe.config
+C:\Users\Breno\source\repos\Pvolume\Pvolume\bin\Debug\Pvolume.exe
+C:\Users\Breno\source\repos\Pvolume\Pvolume\bin\Debug\Pvolume.pdb
+C:\Users\Breno\source\repos\Pvolume\Pvolume\obj\Debug\Pvolume.exe
+C:\Users\Breno\source\repos\Pvolume\Pvolume\obj\Debug\Pvolume.pdb
