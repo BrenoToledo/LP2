@@ -1,0 +1,11 @@
+C:\Users\Breno\source\repos\Pcalculadora\Pcalculadora\bin\Debug\Pcalculadora.exe.config
+C:\Users\Breno\source\repos\Pcalculadora\Pcalculadora\bin\Debug\Pcalculadora.exe
+C:\Users\Breno\source\repos\Pcalculadora\Pcalculadora\bin\Debug\Pcalculadora.pdb
+C:\Users\Breno\source\repos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Breno\source\repos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.Form1.resources
+C:\Users\Breno\source\repos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.Properties.Resources.resources
+C:\Users\Breno\source\repos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.csproj.GenerateResource.cache
+C:\Users\Breno\source\repos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.exe
+C:\Users\Breno\source\repos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.pdb
