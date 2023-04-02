@@ -1,0 +1,11 @@
+C:\Users\Breno\source\repos\Calculo IMC\Calculo IMC\bin\Debug\Calculo IMC.exe.config
+C:\Users\Breno\source\repos\Calculo IMC\Calculo IMC\bin\Debug\Calculo IMC.exe
+C:\Users\Breno\source\repos\Calculo IMC\Calculo IMC\bin\Debug\Calculo IMC.pdb
+C:\Users\Breno\source\repos\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Breno\source\repos\Calculo IMC\Calculo IMC\obj\Debug\Calculo_IMC.Form1.resources
+C:\Users\Breno\source\repos\Calculo IMC\Calculo IMC\obj\Debug\Calculo_IMC.Properties.Resources.resources
+C:\Users\Breno\source\repos\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csproj.GenerateResource.cache
+C:\Users\Breno\source\repos\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.exe
+C:\Users\Breno\source\repos\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.pdb
