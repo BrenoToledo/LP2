@@ -1,0 +1,15 @@
+C:\Users\Breno\source\repos\Placos\Placos\bin\Debug\Placos.exe.config
+C:\Users\Breno\source\repos\Placos\Placos\bin\Debug\Placos.exe
+C:\Users\Breno\source\repos\Placos\Placos\bin\Debug\Placos.pdb
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.Form1.resources
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.frmExercicio1.resources
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.Properties.Resources.resources
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.csproj.GenerateResource.cache
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.exe
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.pdb
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.frmExercicio2.resources
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.frmExercicio3.resources
+C:\Users\Breno\source\repos\Placos\Placos\obj\Debug\Placos.frmExercicio4.resources
