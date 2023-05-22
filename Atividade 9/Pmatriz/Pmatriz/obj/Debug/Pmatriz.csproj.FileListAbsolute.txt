@@ -1,0 +1,13 @@
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\obj\Debug\Pmatriz.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\obj\Debug\Pmatriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\obj\Debug\Pmatriz.Exercicio01.resources
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\obj\Debug\Pmatriz.Main.resources
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\obj\Debug\Pmatriz.Properties.Resources.resources
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\obj\Debug\Pmatriz.csproj.GenerateResource.cache
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\obj\Debug\Pmatriz.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\bin\Debug\Pmatriz.exe.config
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\bin\Debug\Pmatriz.exe
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\bin\Debug\Pmatriz.pdb
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\obj\Debug\Pmatriz.exe
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\obj\Debug\Pmatriz.pdb
+C:\Users\Breno\source\repos\Pmatriz\Pmatriz\obj\Debug\Pmatriz.frm_Exercicio06.resources
