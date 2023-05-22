@@ -1,0 +1,11 @@
+C:\Users\Breno\source\repos\Paliquiota\Paliquiota\bin\Debug\Paliquiota.exe.config
+C:\Users\Breno\source\repos\Paliquiota\Paliquiota\bin\Debug\Paliquiota.exe
+C:\Users\Breno\source\repos\Paliquiota\Paliquiota\bin\Debug\Paliquiota.pdb
+C:\Users\Breno\source\repos\Paliquiota\Paliquiota\obj\Debug\Paliquiota.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\Paliquiota\Paliquiota\obj\Debug\Paliquiota.csproj.SuggestedBindingRedirects.cache
+C:\Users\Breno\source\repos\Paliquiota\Paliquiota\obj\Debug\Paliquiota.Properties.Resources.resources
+C:\Users\Breno\source\repos\Paliquiota\Paliquiota\obj\Debug\Paliquiota.csproj.GenerateResource.cache
+C:\Users\Breno\source\repos\Paliquiota\Paliquiota\obj\Debug\Paliquiota.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\Paliquiota\Paliquiota\obj\Debug\Paliquiota.exe
+C:\Users\Breno\source\repos\Paliquiota\Paliquiota\obj\Debug\Paliquiota.pdb
+C:\Users\Breno\source\repos\Paliquiota\Paliquiota\obj\Debug\Paliquiota.frm_CalculaAliquota.resources
