@@ -1,0 +1,13 @@
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\bin\Debug\PContato0030482223003.exe
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\bin\Debug\PContato0030482223003.pdb
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\obj\Debug\PContato0030482223003.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\obj\Debug\PContato0030482223003.csproj.SuggestedBindingRedirects.cache
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\obj\Debug\PContato0030482223003.Formularios.frmCidade.resources
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\obj\Debug\PContato0030482223003.Formularios.frmContato.resources
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\obj\Debug\PContato0030482223003.Formularios.frmPrincipal.resources
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\obj\Debug\PContato0030482223003.Formularios.frmSobre.resources
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\obj\Debug\PContato0030482223003.Properties.Resources.resources
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\obj\Debug\PContato0030482223003.csproj.GenerateResource.cache
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\obj\Debug\PContato0030482223003.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\obj\Debug\PContato0030482223003.exe
+C:\Users\Breno\source\repos\LP2\Atividades\ProjetoFinal\PContato0030482223003\obj\Debug\PContato0030482223003.pdb
